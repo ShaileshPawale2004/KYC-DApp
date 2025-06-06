@@ -1,0 +1,89 @@
+[
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_docHash",
+				"type": "string"
+			},
+			{
+				"name": "_name",
+				"type": "string"
+			},
+			{
+				"name": "_dob",
+				"type": "string"
+			},
+			{
+				"name": "_residentialAddress",
+				"type": "string"
+			},
+			{
+				"name": "_contact",
+				"type": "string"
+			}
+		],
+		"name": "registerCustomer",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_docHash",
+				"type": "string"
+			},
+			{
+				"name": "_bankName",
+				"type": "string"
+			}
+		],
+		"name": "verifyCustomer",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "_docHash",
+				"type": "string"
+			}
+		],
+		"name": "getCustomerKYC",
+		"outputs": [
+			{
+				"name": "",
+				"type": "string"
+			},
+			{
+				"name": "",
+				"type": "string"
+			},
+			{
+				"name": "",
+				"type": "string"
+			},
+			{
+				"name": "",
+				"type": "string"
+			},
+			{
+				"name": "",
+				"type": "bool"
+			},
+			{
+				"name": "",
+				"type": "string"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
