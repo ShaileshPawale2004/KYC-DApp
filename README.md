@@ -403,3 +403,4 @@ With this README in place, anyone cloning the `KYC-DApp` repo should be able to:
 5. Test the full on-chain/off-chain KYC registration & verification flow.  
 
 Enjoy building and expanding on your KYC-DApp!
+Video Link : https://drive.google.com/file/d/1GemZ2N9baKbQFgFGFEclUr1-15pegSct/view?usp=sharing
