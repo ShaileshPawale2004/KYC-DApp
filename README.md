@@ -6,6 +6,9 @@ A decentralized “Know Your Customer” application combining:
 - A **React** front end that interacts with the deployed contract via Web3.js  
 - An **Express.js + MySQL** back end for persisting/verifying KYC data off-chain
 
+
+Video Link: https://drive.google.com/file/d/1GemZ2N9baKbQFgFGFEclUr1-15pegSct/view?usp=sharing
+
 ---
 
 ## Table of Contents
@@ -404,4 +407,4 @@ With this README in place, anyone cloning the `KYC-DApp` repo should be able to:
 
 Enjoy building and expanding on your KYC-DApp! 
 
-Video Link: https://drive.google.com/file/d/1GemZ2N9baKbQFgFGFEclUr1-15pegSct/view?usp=sharing
+
